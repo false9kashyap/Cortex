@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+
+
+* {
+
+    box-sizing: border-box;
+
+}
+
+
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+
+
+body {
+
+    margin: 0;
+
+
+    min-height: 100vh;
+
+
+    background:
+
+    #050505;
+
+
+    color: white;
+
+
+    font-family:
+
+    Inter,
+
+    Arial,
+
+    sans-serif;
+
+
+
+    overflow-x: hidden;
+
+}
+
+
+/* Premium dark scrollbar */
+
+::-webkit-scrollbar {
+
+    width: 7px;
+
+}
+
+
+
+::-webkit-scrollbar-track {
+
+    background: #050505;
+
+}
+
+
+
+::-webkit-scrollbar-thumb {
+
+    background: #2a2a2a;
+
+    border-radius: 20px;
+
+}
+
+
+
+::-webkit-scrollbar-thumb:hover {
+
+    background: #8cff00;
+
+}
+
+
+
+/* Better text selection */
+
+::selection {
+
+    background: #9cff00;
+
+    color: black;
+
+}
