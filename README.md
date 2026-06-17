@@ -36,17 +36,20 @@ Cortex is a full-stack machine learning application that automates resume screen
 ## Screenshots
 
 ### Resume Analysis Page
-![Resume Analysis](screenshots/analyze.png)
+
+<img src="screenshots/analyze.png" width="700"/>
 
 ### Resume Analysis Result
-![Analysis Result](screenshots/analyze_result.png)
+
+<img src="screenshots/analyze_result.png" width="700"/>
 
 ### Resume Ranking Page
-![Resume Ranking](screenshots/rank.png)
+
+<img src="screenshots/rank.png" width="700"/>
 
 ### Ranking Result
-![Ranking Result](screenshots/rank_result.png)
 
+<img src="screenshots/rank_result.png" width="700"/>
 
 ## Project Highlights
 
