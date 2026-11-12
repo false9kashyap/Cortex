@@ -28,7 +28,6 @@ Cortex is a full-stack machine learning application that automates resume screen
 - Sentence Transformers
 - Scikit-Learn
 - PyTorch
-- TF-IDF Vectorization
 - Cosine Similarity
 - Pandas
 - NumPy
